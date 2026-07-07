@@ -17,5 +17,19 @@ Enquanto Carl Jung contribui com conceitos relacionados ao autoconhecimento, inc
 - Criar um conjunto de materiais reutilizáveis para estudos futuros
 
 
+### Fontes 
+
+[Biografia de Carl Jung](https://www.thesap.org.uk/articles-on-jungian-psychology-2/carl-gustav-jung/)
+
+[Livro: A Energia Psíquica - Carl Jung](https://dn721602.ca.archive.org/0/items/livro-a-energia-psiquica-carl-gustav-jung/Livro%20-%20A%20energia%20ps%C3%ADquica%20-%20%20Carl%20Gustav%20Jung.pdf)
+
+[Livro: O Eu e o Inconsciente - Carl Jung](https://www.ijusc.com.br/wp-content/uploads/2021/06/72_jung_o_eu_e_o_inconsciente.pdf)
+
+[Biografia de Napoleon Hill](https://blog.buobooks.com/uma-breve-historia-de-napoleon-hill/)
+
+[Livro: Quem pensa Enriquece - Napoleon Hill](https://esbam.edu.br/wp-content/uploads/2020/03/Quem-Pensa-Enriquece-Napoleon-Hill-1.pdf)
+
+
+As fontes citadas representam parte do material utilizado. Na construção do notebook, foram adicionados outros livros e biografias para enriquecer a base de conhecimento. O objetivo foi fazer com que o NotebookLM entendesse não apenas conceitos isolados, mas também a forma como Carl Jung e Napoleon Hill desenvolviam seu raciocínio e transmitiam suas ideias. Isso permite que as respostas sejam mais próximas do pensamento desses autores e sempre fundamentadas no conteúdo estudado.
 
 
